@@ -1,7 +1,7 @@
 from transformers import pipeline
 import torch
 
-# Используем стандартный пайплайн, он самый надежный
+
 def analyze_emotions(text):
     try:
 
